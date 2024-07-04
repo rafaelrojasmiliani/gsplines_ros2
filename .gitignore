@@ -1,0 +1,8 @@
+.*.swp
+.*o
+*.avi
+*.mp4
+*.png
+*svg
+*osp
+__pycache__
